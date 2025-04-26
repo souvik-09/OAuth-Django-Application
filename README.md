@@ -93,7 +93,3 @@ If you encounter issues:
 2. Verify that the redirect URI is correctly configured in your OAuth provider
 3. Ensure all required URLs are accessible
 4. Check the Django server logs for error messages
-
-## License
-
-[Your License Here] 
